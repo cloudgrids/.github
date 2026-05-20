@@ -1,0 +1,2 @@
+# .github
+Fork everything
