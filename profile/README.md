@@ -1,6 +1,6 @@
                                                           ForkTS
 
-##### Build TypeScript Beyond Boundaries.
+##### Build TypeScript Library Beyond Boundaries.
 
 ##### **ForkTS** is an open-source TypeScript-focused organization—  
 
