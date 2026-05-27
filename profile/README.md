@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.cloudgrids.tech/cloudgrids/logo.svg" width="120" height="120" alt="CloudGrids" />
+[![CloudGrids](https://media.cloudgrids.tech/cloudgrids/apple-icon-180.png)]()
 
 <h1>CloudGrids</h1>
 
