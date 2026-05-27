@@ -20,7 +20,7 @@
 
 ---
 
-## What is CloudGrids?
+##### What is CloudGrids?
 
 CloudGrids is the open-source organization powering `cloudgrids.tech`. We build developer tools and provide a free subdomain service for open-source projects.
 
@@ -28,7 +28,7 @@ If you are building an open-source tool, library, or portfolio, you can host it 
 
 ---
 
-## Get your own *.cloudgrids.tech subdomain
+##### Get your own *.cloudgrids.tech subdomain
 
 1. **Build something cool**: Create your open-source project and host it anywhere (Vercel, Netlify, GitHub Pages, etc.).
 2. **Transfer your repository**: To get a subdomain, you must transfer your project's GitHub repository to the `cloudgrids` organization. You will retain admin access to continue building. Open a [GitHub issue](https://github.com/cloudgrids) or email us at `support@cloudgrids.tech` to coordinate the transfer and request your subdomain.
@@ -36,41 +36,21 @@ If you are building an open-source tool, library, or portfolio, you can host it 
 
 ---
 
-## 🛠️ Our Open-Source Projects
+##### 🛠️ Our Open-Source Projects
 
 - **[Tools](https://github.com/cloudgrids/tools)**: 12 essential developer utilities. Zero installs. Zero backend. Works completely offline.
-- **[Downflux](https://github.com/forkts/downflux)**: Open-source utilities for Next.js and TypeScript ecosystems.
+- **[Downflux](https://github.com/forkts/downflux)**: Open-source utilities for Next.js and TypeScript ecosystems
 
----
-
-## Quick Start
-
-To run this landing page locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/cloudgrids/cloudgrids.git
-cd cloudgrids
-
-# Install dependencies (uses pnpm)
-pnpm install
-
-# Run locally
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to see the result.
-
-## Contributing
+##### Contributing
 
 Contributions are what make open source amazing. Any contribution you make is **greatly appreciated**.
 
-## License
+##### License
 
 MIT © [CloudGrids Contributors](LICENSE)
 
 ---
 
 <div align="center">
-<p>If this project helped you, please consider giving it a ⭐ on GitHub!</p>
+<p>If this project helped you, consider giving it a ⭐ on GitHub!</p>
 </div>
