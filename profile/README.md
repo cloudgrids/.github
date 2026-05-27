@@ -6,13 +6,6 @@
 
 <p><strong>CloudGrids is an open-source organisation that builds developer tools and lets builders host their projects under *.cloudgrids.tech subdomains. Ship your next project under our domain.</strong></p>
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
-
-<br/>
-
 > An open-source org for builders.
 > Get your own *.cloudgrids.tech subdomain for free.
 
