@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CloudGrids">
+  <defs>
+    <linearGradient id="surface" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".5" stop-color="#4F7CFF"/>
+      <stop offset="1" stop-color="#D946EF"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="18" y1="18" x2="46" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#DFF8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="17" fill="#080B12"/>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="none" stroke="url(#surface)" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M18 43.5h28a8 8 0 0 0 1.2-15.9A15.5 15.5 0 0 0 18.5 24 10 10 0 0 0 18 43.5Z" fill="url(#surface)" opacity=".22"/>
+  <path d="M18 43.5h28a8 8 0 0 0 1.2-15.9A15.5 15.5 0 0 0 18.5 24 10 10 0 0 0 18 43.5Z" fill="none" stroke="url(#shine)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="url(#surface)" stroke="#080B12" stroke-width="1.5">
+    <rect x="23" y="28" width="8" height="8" rx="2"/>
+    <rect x="33" y="28" width="8" height="8" rx="2"/>
+    <rect x="23" y="38" width="8" height="8" rx="2"/>
+    <rect x="33" y="38" width="8" height="8" rx="2"/>
+  </g>
+  <path d="M31 32h2m-6 4v2m10-2v2m-6 4h2" stroke="#fff" stroke-opacity=".9" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
