@@ -1,49 +1,46 @@
 <div align="center">
 
-[![CloudGrids](https://media.cloudgrids.tech/cloudgrids/apple-icon-180.png)]()
+<img src="./public/logo.svg" alt="CloudGrids logo" width="112" height="112" />
 
-<h1>CloudGrids</h1>
+# CloudGrids
 
-<p><strong>CloudGrids is an open-source organisation that builds developer tools and lets builders host their projects under *.cloudgrids.tech subdomains. Ship your next project under our domain.</strong></p>
+**Deploy from GitHub. Go live on `*.cloudgrids.tech` in minutes.**
 
-> An open-source org for builders.
-> Get your own *.cloudgrids.tech subdomain for free.
+[Website](https://cloudgrids.tech) · [GitHub organization](https://github.com/cloudgrids) · [Support](mailto:support@cloudgrids.tech)
+
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://typescriptlang.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](LICENSE)
 
 </div>
 
----
+## About
 
-##### What is CloudGrids?
+CloudGrids is an open-source cloud platform for developers, indie hackers, and AI builders. It brings deployment workflows, developer tools, media services, metadata utilities, agent hosting, and project resources into one ecosystem.
 
-CloudGrids is the open-source organization powering `cloudgrids.tech`. We build developer tools and provide a free subdomain service for open-source projects.
+The platform is being developed publicly. Features marked as coming soon in the interface are not yet production services; internal staging and deployment automation will be introduced separately.
 
-If you are building an open-source tool, library, or portfolio, you can host it under `[your-project].cloudgrids.tech` for free.
+## Current application areas
 
----
+- Cloud hosting dashboards for deployments, domains, environment variables, logs, and templates.
+- Media upload, CDN, and transformation interfaces.
+- Metadata inspection, endpoint discovery, and testing tools.
+- AI UI generation and component galleries.
+- Agent hosting, boilerplates, creator tools, and scraping workflows.
+- Public privacy, legal, and project information pages.
 
-##### Get your own *.cloudgrids.tech subdomain
+## Contributing
 
-1. **Build something cool**: Create your open-source project and host it anywhere (Vercel, Netlify, GitHub Pages, etc.).
-2. **Transfer your repository**: To get a subdomain, you must transfer your project's GitHub repository to the `cloudgrids` organization. You will retain admin access to continue building. Open a [GitHub issue](https://github.com/cloudgrids) or email us at `support@cloudgrids.tech` to coordinate the transfer and request your subdomain.
-3. **Ship it**: We will set up the subdomain and point it to your deployment. Your project goes live on `*.cloudgrids.tech`!
+Issues and pull requests are welcome. Before submitting a change:
 
----
+```bash
+pnpm typecheck
+pnpm lint
+pnpm build
+```
 
-##### 🛠️ Our Open-Source Projects
+Keep public descriptions aligned with functionality that is actually available. Do not present planned staging, billing, deployment automation, or other coming-soon services as production-ready.
 
-- **[Tools](https://github.com/cloudgrids/tools)**: 12 essential developer utilities. Zero installs. Zero backend. Works completely offline.
-- **[Downflux](https://github.com/forkts/downflux)**: Open-source utilities for Next.js and TypeScript ecosystems
+## License
 
-##### Contributing
-
-Contributions are what make open source amazing. Any contribution you make is **greatly appreciated**.
-
-##### License
-
-MIT © [CloudGrids Contributors](LICENSE)
-
----
-
-<div align="center">
-<p>If this project helped you, consider giving it a ⭐ on GitHub!</p>
-</div>
+MIT © CloudGrids contributors.
